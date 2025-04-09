@@ -69,7 +69,7 @@ static const struct {
     const char *str;
 } majorClassAVTbl[] = {
     {0x00, "Uncategorized, code for device not assigned"},
-    {0x01, "earable Headset Device"},
+    {0x01, "Wearable Headset Device"},
     {0x02, "Hands-free Device"},
     {0x04, "Microphone"},
     {0x05, "Loudspeaker"},
